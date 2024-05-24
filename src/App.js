@@ -1,6 +1,5 @@
 import "./App.css";
 
-let name = "Umair";
 function App() {
   return (
     <>
